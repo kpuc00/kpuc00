@@ -8,7 +8,7 @@ My name is Kristiyan Strahilov. I am a young and inspired international student 
 At the beginning of my professional studies, I started developing basic Windows Forms apps using C#, which introduced me to the object-oriented programming and gained some knowledge of the .NET framework. Later I have moved on to developing Full-Stack web applications using Java and React.js framework, which gave me a lot of knowledge about the RESTful APIs and Database design. I have also worked on group projects with other students in a team using Agile scrum methodology for development.
 I also specialize in Smart Mobile where I learned the basics of developing Kotlin-based Android apps and SwiftUI-based apps for iOS by implementing UX techniques.
 
-I am currently searching for an internship. 🔭
+I am currently looking for an internship. 🔭
 <!--
 **kpuc00/kpuc00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
