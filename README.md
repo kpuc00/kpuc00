@@ -9,6 +9,8 @@ At the beginning of my professional studies, I started developing basic Windows 
 I also specialize in Smart Mobile where I learned the basics of developing Kotlin-based Android apps and SwiftUI-based apps for iOS by implementing UX techniques.
 
 I am currently looking for an internship. 🔭
+
+📫 How to reach me: [LinkedIn profile](https://www.linkedin.com/in/kristiyan-strahilov/)
 <!--
 **kpuc00/kpuc00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
