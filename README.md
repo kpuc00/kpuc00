@@ -12,7 +12,7 @@ I am currently looking for an internship. 🔭
 
 📫 How to reach me: [LinkedIn profile](https://www.linkedin.com/in/kristiyan-strahilov/)
 
-Featured projects: ⭐
+Featured projects ⭐
 - [KS Supermarket](https://github.com/kpuc00/ks-the-online-supermarket)
 
 <!--
