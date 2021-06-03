@@ -11,6 +11,10 @@ I also specialize in Smart Mobile where I learned the basics of developing Kotli
 I am currently looking for an internship. 🔭
 
 📫 How to reach me: [LinkedIn profile](https://www.linkedin.com/in/kristiyan-strahilov/)
+
+Featured projects: ⭐
+- [KS Supermarket](https://github.com/kpuc00/ks-the-online-supermarket)
+
 <!--
 **kpuc00/kpuc00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
