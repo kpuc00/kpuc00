@@ -10,6 +10,7 @@ I also specialize in Smart Mobile where I learned the basics of developing Kotli
 
 #### Experience 🏢
 - Full-Stack developer intern at ATOGEAR B.V in Eindhoven, The Netherlands. (Sep 2021 - Jan 2022)
+- Frontend developer - Graduation internship at Basic-Fit International B.V. in Tilburg, The Netherlands. (Jan 2023 - present)
 
 📫 How to reach me: <br>
 Email: [kdstrahilov@gmail.com](mailto:kdstrahilov@gmail.com) <br>
