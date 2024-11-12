@@ -9,9 +9,9 @@ At the beginning of my professional studies, I started developing basic Windows 
 I have specialized "Smart Mobile" where I learned the basics of mobile development by making Kotlin-based Android apps and SwiftUI-based apps for iOS by implementing UX techniques.
 
 #### Experience 🏢
-- Full-Stack developer intern at [ATOGEAR B.V](https://www.arion.run) in Eindhoven, The Netherlands. (Sep 2021 - Jan 2022)
-- Frontend developer intern (Graduation internship and Thesis) at [Basic-Fit International B.V.](https://www.basic-fit.com) in Tilburg, The Netherlands. (Jan 2023 - Jul 2023)
 - Frontend developer at [Dench eGaming Solutions AD](https://denchsolutions.com) in Varna, Bulgaria. (Aug 2023 - present)
+- Frontend developer intern (Graduation internship and Thesis) at [Basic-Fit International B.V.](https://www.basic-fit.com) in Tilburg, The Netherlands. (Jan 2023 - Jul 2023)
+- Full-Stack developer intern at [ATOGEAR B.V](https://www.arion.run) in Eindhoven, The Netherlands. (Sep 2021 - Jan 2022)
 
 📫 How to reach me: <br>
 Email: [contact@kstrahilov.dev](mailto:contact@kstrahilov.dev) <br>
