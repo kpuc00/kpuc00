@@ -11,13 +11,14 @@ I have specialized "Smart Mobile" where I learned the basics of mobile developme
 #### Experience 🏢
 - Frontend developer at [Dench eGaming Solutions AD](https://denchsolutions.com) in Varna, Bulgaria. (Aug 2023 - present)
 - Frontend developer intern (Graduation internship and Thesis) at [Basic-Fit International B.V.](https://www.basic-fit.com) in Tilburg, The Netherlands. (Jan 2023 - Jul 2023)
-- Full-Stack developer intern at [ATOGEAR B.V](https://www.arion.run) in Eindhoven, The Netherlands. (Sep 2021 - Jan 2022)
+- Full-Stack developer intern at [ATOGEAR B.V.](https://www.arion.run) in Eindhoven, The Netherlands. (Sep 2021 - Jan 2022)
 
 📫 How to reach me: <br>
 Email: [contact@kstrahilov.dev](mailto:contact@kstrahilov.dev) <br>
 [LinkedIn profile](https://www.linkedin.com/in/kristiyan-strahilov/)
 
 ## Featured projects ⭐
+- [T-Navi](https://github.com/kpuc00/T-Navi-public)
 - [KS Supermarket](https://github.com/kpuc00/ks-the-online-supermarket)
 
 <!--
